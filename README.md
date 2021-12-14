@@ -16,4 +16,7 @@ Because of the concurrent nature of this script, the order of the
 phone numbers in output file may be different from input file.
 
 For Twilio credentials, please refer to: https://www.twilio.com/docs/iam/credentials/api
+
 Twilio API docs: https://www.twilio.com/docs
+
+Twilio Lookup API docs: https://www.twilio.com/docs/lookup/api
