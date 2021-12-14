@@ -1,7 +1,10 @@
 # Twilio_Lookup_API_Bulk
 
-As of creation of this script, Twilio didn't provide a way to bulk call their Lookup API.
-This script was created to use Lookup API from Twilio in a bulk manner.
+Author: Hiren Variava
+Date: Dec 13, 2021
+
+As of creation of this script, Twilio didn't provide a way to bulk call their Lookup API 
+and I couldn't find any JS implementation of it so I created this script to bulk call Twilio Lookup API.
 
 The script was created as a quick solution to a problem that I was facing, and thus
 it's not following any sort of best practices.
