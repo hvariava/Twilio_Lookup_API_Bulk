@@ -12,8 +12,9 @@
 // The purpose of this script was just to get phone type from Lookup API,
 // but you can modify the script to get more information out of this API if need be.
 //
-// The script takes in an input file with one phone number per line
-// and outputs a file with one phone number and phone type per line.
+// Input file format: one phone number per line
+// Output file format: one phone number and phone type per line separted by comma
+//
 // Because of the concurrent nature of this script, the order of the 
 // phone numbers in output file may be different from input file.
 //
